@@ -1,1 +1,3 @@
 # QRCode-generator
+This repository contains a Python-based QR Code generator that allows users to create QR codes easily from any string of text or URL. Utilizing the qrcode library, this project features a simple command-line interface and supports various customization options such as adjusting the QR code’s size and error correction level. The project is designed for ease of use, with straightforward installation instructions and clear documentation to help users get started quickly. Whether you're looking to generate QR codes for personal use or integrate this functionality into a larger application, this tool provides a flexible and efficient solution. Contributions and feedback are welcome as we continue to enhance and expand its capabilities.
+
